@@ -1,13 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- 太虛間之印·琉璃版：形同品牌板幾何印（圓為虛，隙為間），色從站之琉璃；朱印留於印刷 -->
   <defs>
     <clipPath id="seal"><rect x="0" y="0" width="64" height="64" rx="4"/></clipPath>
   </defs>
   <g clip-path="url(#seal)">
-    <rect x="0" y="0" width="64" height="64" rx="4" fill="#9B2522"/>
-    <circle cx="32" cy="32" r="15.52" fill="none" stroke="#F5E6D3" stroke-width="4.8"/>
-    <rect x="29.28" y="0" width="5.44" height="64" fill="#9B2522"/>
-    <rect x="31.04" y="0" width="1.92" height="64" fill="#F5E6D3"/>
+    <rect x="0" y="0" width="64" height="64" rx="4" fill="#1E3A5F"/>
+    <circle cx="32" cy="32" r="15.52" fill="none" stroke="#FEFEFC" stroke-width="4.8"/>
+    <rect x="29.28" y="0" width="5.44" height="64" fill="#1E3A5F"/>
+    <rect x="31.04" y="0" width="1.92" height="64" fill="#FEFEFC"/>
   </g>
-  <rect x="0.38" y="0.38" width="63.24" height="63.24" rx="3.46" fill="none" stroke="#6B1410" stroke-width="0.77"/>
-  <rect x="3.84" y="3.84" width="56.32" height="56.32" rx="1.92" fill="none" stroke="#F5E6D3" stroke-opacity=".35" stroke-width="0.32"/>
+  <rect x="0.38" y="0.38" width="63.24" height="63.24" rx="3.46" fill="none" stroke="#0F2540" stroke-width="0.77"/>
+  <rect x="3.84" y="3.84" width="56.32" height="56.32" rx="1.92" fill="none" stroke="#FEFEFC" stroke-opacity=".35" stroke-width="0.32"/>
 </svg>
