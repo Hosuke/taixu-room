@@ -1,0 +1,1 @@
+import{i as e}from"./graphlib-h4-49q0e.js";var t=4;function n(n){return e(n,t)}export{n as t};
