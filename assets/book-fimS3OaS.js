@@ -1,0 +1,1 @@
+import{a as e,d as t,m as n}from"./strings-DUNJPQX-.js";function r(e){return(e||``).replace(/\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g,(e,t,n)=>n||t).trim()}function i(e){return r(e).replace(/^第[〇一二三四五六七八九十百零]+[章篇]\s*/,``)}function a(r,i){return!r||r<=0?``:n()===`en`?`Chapter ${r}`:`第${t(r)}${e(i===`chapter`?`ui_chapter_unit`:`ui_piece_unit`)}`}export{a as n,r,i as t};
