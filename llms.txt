@@ -7,6 +7,7 @@
 - [典籍](https://taixu.ink/classics/)
 - [祖師](https://taixu.ink/masters/)
 - [辭林](https://taixu.ink/wiki/)
+- [人物](https://taixu.ink/persons/)
 - [法脈](https://taixu.ink/lineages/)
 - [傳燈](https://taixu.ink/chuandeng/)
 - [太虛](https://taixu.ink/school/taixu/)
