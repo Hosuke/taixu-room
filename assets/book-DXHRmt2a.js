@@ -1,1 +1,0 @@
-import{f as e,l as t,r as n}from"./strings-BfiBxKW7.js";function r(e){return(e||``).replace(/\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g,(e,t,n)=>n||t).trim()}function i(e){return r(e).replace(/^第[〇一二三四五六七八九十百零]+[章篇]\s*/,``)}function a(r,i){return!r||r<=0?``:e()===`en`?`Chapter ${r}`:`第${t(r)}${n(i===`chapter`?`ui_chapter_unit`:`ui_piece_unit`)}`}export{a as n,r,i as t};

@@ -1,1 +1,0 @@
-function e(e){let t=e?.find(e=>e.startsWith(`部:`)&&e.includes(`/`));if(t)return t.slice(2).replace(`/`,` · `);let n=e?.find(e=>e.startsWith(`部:`));return n?n.slice(2):``}export{e as t};

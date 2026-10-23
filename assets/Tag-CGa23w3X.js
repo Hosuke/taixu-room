@@ -1,1 +1,0 @@
-import{p as e}from"./strings-BDpzAWvP.js";import{n as t}from"./chunk-QFMPRPBF-B5pMhSC5.js";var n=e();function r({label:e,to:r}){let i=r===void 0?`/search?q=${encodeURIComponent(e)}`:r;return i?(0,n.jsx)(t,{to:i,className:`tag`,children:e}):(0,n.jsx)(`span`,{className:`tag`,children:e})}export{r as t};
