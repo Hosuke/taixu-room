@@ -1,0 +1,5 @@
+王漢宗中隸書（HanWangLiSuMedium，wt021）
+王漢宗教授捐贈之自由字型，依 GNU General Public License v2 散布。
+原始字型檔：https://github.com/dictcp-snapshot/wangfonts （TrueType/wt021.ttf）
+GPL 全文：https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+本目錄之 woff2 為原字型之子集與格式轉換。

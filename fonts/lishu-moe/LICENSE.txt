@@ -1,0 +1,4 @@
+教育部隸書字型檔（Version 3.00）
+著作權屬中華民國教育部，採創用CC「姓名標示-禁止改作」3.0 臺灣版授權。
+https://language.moe.gov.tw/material/info?m=9fe3fb11-c3d5-41f2-b029-6d18a2c2fd0d
+本目錄之 woff2 僅為原字型之子集與格式轉換，字形未改。
